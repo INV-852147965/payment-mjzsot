@@ -1,8 +1,10 @@
 2026-09-15
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: lindabennie@comcast.net, maddi_scott@yahoo.com
-At: 2026-09-15 23:11:11
-Id: mHLWVoZD
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: mmclaughlin@citlink.net, jgore61@hotmail.com
+At: 2026-09-15 23:11:50
+Id: g7GuRqz2
